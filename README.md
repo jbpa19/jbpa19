@@ -4,23 +4,19 @@
 
 I build local AI agent systems focused on privacy, security, and intelligent automation.
 
-My work explores how organizations can use AI agents while maintaining control over sensitive data, identities, and business information.
+My current work includes a functional multi-agent prototype built around a central coordinator and multiple specialized agents. The system is currently in the integration and testing phase.
 
-My main technical interests include local LLM infrastructure, multi-agent architectures, agent orchestration, and secure AI system design.
-
-## Current Project
+## 🚀 Current Project
 
 ### Local AI Multi-Agent System
 
-A working multi-agent prototype built around a central coordinator and multiple specialized agents.
+A local multi-agent prototype designed to coordinate specialized agents through a central coordinator.
 
-The system is currently in the integration and testing phase, with ongoing development of agent coordination, workflows, and practical capabilities.
-
-**Current architecture:**
-- Central coordinator for managing agent interactions.
-- Specialized agents with different responsibilities.
-- Local LLM execution.
-- Research, analysis, project management, and documentation workflows under development.
+**Current development status:**
+- Functional multi-agent prototype.
+- Central coordinator and multiple specialized agents.
+- Ongoing integration and testing.
+- Development of specialized workflows and agent coordination.
 
 **Technology stack:**
 - Python
@@ -30,31 +26,29 @@ The system is currently in the integration and testing phase, with ongoing devel
 - SQLite
 - Linux
 
-## Technical Focus
+## 🔐 Technical Focus
 
-**Local AI & Agent Engineering**
+### Local AI & Agent Engineering
 - Local LLM deployment and execution.
-- Multi-agent architectures.
-- Agent orchestration and workflow automation.
-- Specialized AI agents and task coordination.
+- Multi-agent architectures and orchestration.
+- Specialized agents and task coordination.
+- Intelligent workflow automation.
 
-**Secure AI Systems**
-- Privacy-first system architecture.
+### Secure AI Systems
+- Privacy-first architecture.
 - Identity and credential management.
 - Agent-level permissions and access control.
 - Secure handling of sensitive information.
 - Human approval for sensitive operations.
 - Audit logging and traceability.
 
-Security capabilities are an active area of development, testing, and validation.
+Security capabilities are areas of active development and validation, not claims of completed security guarantees.
 
-## Technologies
+## 🛠️ Technologies
 
-`Python` `Ollama` `Qwen3` `LangGraph` `SQLite` `Linux` `Git` `GitHub`
+`Python` · `Ollama` · `Qwen3` · `LangGraph` · `SQLite` · `Linux` · `Git` · `GitHub`
 
-## Professional Interests
-
-I am interested in opportunities involving:
+## 🎯 Professional Interests
 
 - Local AI Agent Engineering
 - AI Automation Engineering
@@ -72,21 +66,19 @@ My objective is to build practical, testable AI systems that combine local execu
 
 Desarrollo sistemas de agentes de inteligencia artificial locales, enfocados en privacidad, seguridad y automatización inteligente.
 
-Mi trabajo explora cómo las organizaciones pueden utilizar agentes de IA manteniendo el control sobre sus datos sensibles, identidades e información empresarial.
+Actualmente trabajo en un prototipo multiagente funcional, construido alrededor de un coordinador central y varios agentes especializados. El sistema se encuentra en fase de integración y pruebas.
 
-## Proyecto principal
+## 🚀 Proyecto actual
 
 ### Sistema Multiagente de IA Local
 
-Prototipo funcional multiagente construido alrededor de un coordinador central y varios agentes especializados.
+Prototipo multiagente local diseñado para coordinar agentes especializados mediante un coordinador central.
 
-Actualmente se encuentra en fase de integración y pruebas, con desarrollo continuo de la coordinación entre agentes, flujos de trabajo y capacidades prácticas.
-
-**Arquitectura actual:**
-- Coordinador central para gestionar las interacciones entre agentes.
-- Agentes especializados con diferentes responsabilidades.
-- Ejecución de modelos de lenguaje locales.
-- Flujos de investigación, análisis, gestión de proyectos y documentación en desarrollo.
+**Estado actual del desarrollo:**
+- Prototipo multiagente funcional.
+- Coordinador central y varios agentes especializados.
+- Integración y pruebas en curso.
+- Desarrollo de flujos especializados y coordinación entre agentes.
 
 **Tecnologías:**
 - Python
@@ -96,26 +88,34 @@ Actualmente se encuentra en fase de integración y pruebas, con desarrollo conti
 - SQLite
 - Linux
 
-## Enfoque técnico
+## 🔐 Enfoque técnico
 
-**Inteligencia artificial local e ingeniería de agentes**
+### IA local e ingeniería de agentes
 - Implementación y ejecución local de LLM.
-- Arquitecturas multiagente.
-- Orquestación de agentes y automatización de flujos.
+- Arquitecturas multiagente y orquestación.
 - Agentes especializados y coordinación de tareas.
+- Automatización inteligente de flujos de trabajo.
 
-**Sistemas de IA seguros**
+### Sistemas de IA seguros
 - Arquitecturas orientadas a la privacidad.
 - Gestión de identidades y credenciales.
-- Permisos y control de acceso por agente.
+- Permisos por agente y control de acceso.
 - Protección de información sensible.
 - Aprobación humana para operaciones sensibles.
 - Auditoría y trazabilidad.
 
-Las capacidades de seguridad forman parte de un área activa de desarrollo, pruebas y validación.
+Las capacidades de seguridad se encuentran en desarrollo y validación; no se presentan como garantías ya implementadas.
 
-## Objetivo profesional
+## 🛠️ Tecnologías
 
-Construir sistemas de inteligencia artificial prácticos y verificables que combinen ejecución local, automatización útil y prácticas responsables de seguridad.
+`Python` · `Ollama` · `Qwen3` · `LangGraph` · `SQLite` · `Linux` · `Git` · `GitHub`
 
-Me interesan oportunidades relacionadas con ingeniería de agentes de IA locales, automatización, infraestructura privada de IA y sistemas seguros de inteligencia artificial.
+## 🎯 Intereses profesionales
+
+- Ingeniería de agentes de IA locales
+- Automatización con IA
+- Ingeniería de LLM
+- Infraestructura privada de IA
+- Sistemas de IA seguros
+
+Mi objetivo es construir sistemas de IA prácticos y verificables que combinen ejecución local, automatización útil y prácticas responsables de seguridad.
